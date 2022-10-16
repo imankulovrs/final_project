@@ -1,0 +1,15 @@
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.csproj.AssemblyReference.cache
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.AssemblyInfoInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.AssemblyInfo.cs
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.csproj.CoreCompileInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\bin\Debug\net6.0\FINAL_FOLDER.exe
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\bin\Debug\net6.0\FINAL_FOLDER.deps.json
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\bin\Debug\net6.0\FINAL_FOLDER.runtimeconfig.json
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\bin\Debug\net6.0\FINAL_FOLDER.dll
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\bin\Debug\net6.0\FINAL_FOLDER.pdb
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.dll
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\refint\FINAL_FOLDER.dll
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.pdb
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\FINAL_FOLDER.genruntimeconfig.cache
+C:\Users\Эльвира\Desktop\GB.ru\FINAL\FINAL_FOLDER\obj\Debug\net6.0\ref\FINAL_FOLDER.dll
